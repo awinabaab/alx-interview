@@ -25,3 +25,14 @@
 
     - Iterating over arrays and manipulating data structures to format and display character names.
     - JavaScript Array Methods
+
+
+## Files
+### [0-starwars_characters](https://github.com/awinabaab/alx-interview/blob/main/0x06-starwars_api/0-starwars_characters.js)
+A script that prints all characters of a Star Wars movie:
+
+  - Usage: `./starwars_characters.js <movie_id>`
+  - The first positional argument passed is the Movie ID - example: 3 = “Return of the Jedi”
+  - Displays one character name per line in the same order as the “characters” list in the /films/ endpoint
+  - Uses the [Star wars API](https://swapi-api.alx-tools.com/)
+  - Uses the request module
